@@ -1,0 +1,28 @@
+name: Street Zen
+favicon: null
+layout_spectrum: 0.08244178653694689
+typography_spectrum: 0.23700105608440936
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1238739041145891
+  lightness: 0.4566270981449634
+  saturation: 0.8793921407777816
+  rhythmicContrast: 0.33390278089791536
+purpose: []
